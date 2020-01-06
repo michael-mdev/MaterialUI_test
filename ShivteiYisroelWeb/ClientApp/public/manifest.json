@@ -1,6 +1,6 @@
 {
-  "short_name": "ShivteiYisroelWeb",
-  "name": "ShivteiYisroelWeb",
+  "short_name": "React Material Admin",
+  "name": "React Material Admin is a React Template built with Material-UI",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,8 +8,8 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#536DFE",
   "background_color": "#ffffff"
 }
