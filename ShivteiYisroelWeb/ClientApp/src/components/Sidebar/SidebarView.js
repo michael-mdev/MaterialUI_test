@@ -27,7 +27,7 @@ const structure = [
     { id: 0, label: 'Home', link: '/app/home', icon: <Home /> },
     { id: 1, label: 'Member Details', link: '/app/MemberDetails', icon: <People /> },
   //{ id: 2, label: 'Tables', link: '/app/tables', icon: <TableIcon /> },
-  //{ id: 3, label: 'Notifications', link: '/app/notifications', icon: <NotificationsIcon />},
+  { id: 2, label: 'Notifications', link: '/app/notifications', icon: <NotificationsIcon />},
   //{
   //  id: 4,
   //  label: 'UI Elements',

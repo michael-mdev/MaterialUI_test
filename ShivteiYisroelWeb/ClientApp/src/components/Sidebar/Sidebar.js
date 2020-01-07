@@ -40,12 +40,12 @@ const structure = [
   //  icon: <TypographyIcon />,
   //  },
     { id: 1, label: "Member", link: "/app/MemberDetails", icon: <Person /> },
-  //{
-  //  id: 3,
-  //  label: "Notifications",
-  //  link: "/app/notifications",
-  //  icon: <NotificationsIcon />,
-  //},
+  {
+    id: 2,
+    label: "Notifications",
+    link: "/app/notifications",
+    icon: <NotificationsIcon />,
+  },
   //{
   //  id: 4,
   //  label: "UI Elements",
