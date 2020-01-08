@@ -112,4 +112,40 @@ export default makeStyles(theme => ({
     fontSize: "18px !important",
     marginLeft: theme.spacing(1),
   },
+  root: {
+    padding: '2px 4px',
+    display: 'flex',
+    alignItems: 'center',
+    width: 400,
+  },
+  input: {
+    marginLeft: theme.spacing(1),
+    flex: 1,
+  },
+  searchIconButton: {
+    padding: 10,
+  },
+  iconButton: {
+    padding: 10,
+    float: 'right',
+  },
+  filtercheckbox: {
+    width: '100%',
+    maxHeight:200,
+    overflowY: 'scroll',
+    backgroundColor: theme.palette.background.paper,
+  },
+  refinePanel: {
+    height: 'calc(100vh - 307px)',
+  },
+  refinePanelButton: {
+    float: 'right',
+    marginTop: "150px"
+  },
+  resetButton: {
+    marginTop: '150px'
+  },
+  filterButtonArea: {
+    float: 'right'
+  }
 }));

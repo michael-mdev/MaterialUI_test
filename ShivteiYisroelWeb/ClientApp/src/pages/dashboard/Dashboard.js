@@ -66,8 +66,8 @@ export default function Dashboard(props) {
 
     return (
         <>
-            {MemberId == undefined ? 
-            <SearchMember></SearchMember> : <MemberDetails></MemberDetails>}
+            
+            <SearchMember></SearchMember> 
     </>
   );
 }
